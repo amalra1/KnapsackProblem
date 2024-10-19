@@ -1,2 +1,2 @@
-# LPSolveInputBuilder
-Simple program that converts a given input file into the lp_solve type input
+# Knapsack Problem
+Solving the Knapsack problem given an instance n, using the 'lp_solve' program, details are in the .pdf in the repo.
